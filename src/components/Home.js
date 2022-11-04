@@ -30,7 +30,7 @@ const Home = () => {
       <h1 className='App-title'>¿QUIENES SOMOS?</h1>
       <h3 className="App-subtitle">Somos una hamburgueseria joven con el sueño de crecer y darnos a conocer dia a dia un poco mas.
        Creada a partir de la idea de dos amigos que con esfuerzo, compromiso y dedicación logramos emprender este viaje hacia un proyecto
-       anhelado el cual esta avocado a ofrecer productos y servicios de calidad para quienes nos den
+       anhelado el cual esta dirigido a ofrecer productos y servicios de calidad para quienes nos den
         la oportunidad de ser nuestros clientes.</h3>
        <br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br>
        <h4 className="Select">NUESTRAS EPIK (TAMBIEN VEGGIE):</h4><br></br><br></br>
