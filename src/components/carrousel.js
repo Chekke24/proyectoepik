@@ -71,7 +71,7 @@ const carrousel = () => {
         <article className="card">
             <img src={percebal} alt="percebal" className="card__img"></img>
             <div className="card__data">
-                <h2 className="card__title">PERCEBAL</h2>
+                <h2 className="card__title">PERCEVAL</h2>
                 <p className="card__description">BURGER | MOSTAZA | KETCHUP | CEBOLLA FRESCA | CHEDDAR</p>
                 <a href="#" className="card_btn"></a>
             </div>
